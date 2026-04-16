@@ -1,0 +1,10 @@
+{
+  "name": "raidly",
+  "version": "1.0.0",
+  "description": "Discord + Twitch raid train platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
